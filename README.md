@@ -1,6 +1,6 @@
 # La Chona 🎉
 
-**Your party starts with an idea. La chona makes it a reality.**
+**Your party starts with an idea. La Chona makes it a reality.**
 
 La Chona is a personal AI assistant purpose built for event planning. It is designed to help you organize parties with friends, special events, and social gatherings—and find the right providers for drinks, venues, food, entertainment, and more.
 
