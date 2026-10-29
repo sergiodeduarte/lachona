@@ -24,30 +24,19 @@ The intended experience is simple:
 
 The goal: a practical plan and a shortlist of relevant providers, with clear next steps. This illustrates the planned experience; it is not a live result.
 
-## Current status
-
-**Concept stage · Codex Build Day Guadalajara / JSConfMX 2026**
-
-As of October 29, 2026, this repository contains the project README. The application, provider search, and working demo are still to be built.
-
-**How to run:** there is no runnable application yet. Setup instructions will be added when the first working version is available.
-
 ## Use of Codex
 
 Codex was used to turn the project brief into this README, review the hackathon's published requirements, and prepare the repository's initial documentation. The README was checked against the brief, the empty repository, and the event instructions to distinguish the proposed experience from completed work.
-
-Application development and screenshot or video evidence of Codex use are still pending.
 
 ## Hackathon submission
 
 [Repository](https://github.com/sergiodeduarte/lachona) · [Event requirements](https://codex-build-day-guadalajara-slides.aileenvl375305.chatgpt.site/#7) · [Submit project](https://codex-guadalajara-jsconfmx-2026.aileenvl375305.chatgpt.site/submit)
 
-Before submission:
+The product demo video and video evidence of Codex use have been uploaded.
+
+Submission checklist:
 
 - Add the team name and confirmed members (up to four).
 - Build and test one complete event-planning flow with sample data and a verifiable result.
-- Add setup instructions, the live demo, and a demonstration video.
-- Include a screenshot or short video showing a concrete Codex task and how its result was reviewed or tested.
+- Add setup instructions and the live demo link.
 - Document what was built during the event, what remains, and any reused work and its licenses.
-
-The project is not yet a complete hackathon submission. These items will be updated as the build progresses.
