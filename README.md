@@ -27,16 +27,3 @@ The goal: a practical plan and a shortlist of relevant providers, with clear nex
 ## Use of Codex
 
 Codex was used to turn the project brief into this README, review the hackathon's published requirements, and prepare the repository's initial documentation. The README was checked against the brief, the empty repository, and the event instructions to distinguish the proposed experience from completed work.
-
-## Hackathon submission
-
-[Repository](https://github.com/sergiodeduarte/lachona) · [Event requirements](https://codex-build-day-guadalajara-slides.aileenvl375305.chatgpt.site/#7) · [Submit project](https://codex-guadalajara-jsconfmx-2026.aileenvl375305.chatgpt.site/submit)
-
-The product demo video and video evidence of Codex use have been uploaded.
-
-Submission checklist:
-
-- Add the team name and confirmed members (up to four).
-- Build and test one complete event-planning flow with sample data and a verifiable result.
-- Add setup instructions and the live demo link.
-- Document what was built during the event, what remains, and any reused work and its licenses.
