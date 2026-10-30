@@ -53,6 +53,8 @@ Aprendizajes que ya se reflejan en el producto:
 - Un precio lleva fuente y fecha de observación. Existencia, entrega y envío se confirman con el proveedor.
 - Una solicitud de acceso no equivale a una aprobación: el anfitrión decide antes de abrir el bot.
 
+**[Obstáculos, problemas corregidos y lecciones aprendidas](docs/ROADBLOCKS-AND-LESSONS.md):** documentamos las búsquedas sin resultados incorrectas y el fallo de entrega en Telegram, desde el síntoma hasta la corrección, las pruebas y la confirmación del usuario.
+
 ## Construida con Codex · Codex Build Day Guadalajara
 
 **Proyecto:** La Chona · **Equipo:** Sergio el Bailador · **Integrante:** Sergio Duarte.
@@ -72,6 +74,7 @@ Codex es la herramienta de desarrollo. La interpretación de mensajes del produc
 | Guía breve para evaluación | [Evaluar La Chona](docs/EVALUATION.md) |
 | Guion reproducible e instrucciones de ejecución | [Probar La Chona](docs/DEMO.md) |
 | Trabajo con Codex y verificación | [Construida con Codex](docs/BUILT-WITH-CODEX.md) |
+| Problemas encontrados, correcciones y lecciones | [Obstáculos y aprendizajes](docs/ROADBLOCKS-AND-LESSONS.md) |
 | Trabajo nuevo, componentes reutilizados y licencias | [Reutilización y atribuciones](docs/REUSE-AND-LICENSES.md) |
 | Registro del proyecto | [Galería del evento](https://codex-guadalajara-jsconfmx-2026.aileenvl375305.chatgpt.site/projects#d0c9b12a-1711-4143-be9c-a56793f6959c) |
 
