@@ -29,8 +29,8 @@ Por mensaje le dices qué se arma. Ella confirma lo que entendió y te devuelve 
 
 ### ¿Cómo la pruebo?
 
-1. Entra a **[lachona.ai](https://lachona.ai)** y toca **Armar mi reunión**.
-2. Deja tu nombre y teléfono. La solicitud queda **pendiente de aprobación**.
+1. Entra a **[lachona.ai](https://lachona.ai)** y toca **Pedir Acceso**.
+2. Deja tu nombre y correo electrónico. La solicitud queda **pendiente de aprobación**.
 3. Vuelve desde el mismo navegador: cuando se apruebe, aparecerá tu enlace a Telegram.
 4. Cuéntale a La Chona qué necesitas, confirma el resumen y compara las opciones.
 

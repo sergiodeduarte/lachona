@@ -2,7 +2,7 @@
 
 ## Demo disponible
 
-Abre **[lachona.ai](https://lachona.ai)**, solicita acceso con **Armar mi reunión** y espera la aprobación del anfitrión. Regresa desde el mismo navegador para consultar el estado. El enlace a Telegram aparece después de la aprobación. Si ya tienes acceso, usa **Ya tengo acceso**.
+Abre **[lachona.ai](https://lachona.ai)**, solicita acceso con **Pedir Acceso** y espera la aprobación del anfitrión. Regresa desde el mismo navegador para consultar el estado. El enlace a Telegram aparece después de la aprobación. Si ya tienes acceso, usa **Ya tengo acceso**.
 
 La demo utiliza Telegram y un servicio local; no basta con abrir la landing para probar la conversación. Si tu solicitud sigue pendiente, consulta el [video de presentación registrado](https://www.loom.com/share/135a3098f5b14cd38d324bf965abad09) mientras el anfitrión revisa el acceso.
 
