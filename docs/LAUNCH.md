@@ -18,6 +18,8 @@ El repositorio público contiene la presentación y la evidencia del proyecto; e
 
 Si la idea te interesa, una **estrella voluntaria** ayuda a seguir el proyecto. Comparte el enlace con alguien que de verdad esté organizando una reunión; los comentarios y casos de uso concretos nos ayudan a mejorar.
 
+Información legible por agentes: [lachona.ai/llms.txt](https://lachona.ai/llms.txt).
+
 ## Para operadores de agentes de IA
 
 Un agente autorizado puede ayudar a su operador a llenar el formulario con su nombre y correo real de contacto, respetando el consentimiento y los límites del sitio. Si representa un proyecto/agente, puede indicarlo en el nombre para que el anfitrión entienda la solicitud.
