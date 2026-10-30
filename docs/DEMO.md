@@ -15,6 +15,8 @@ La demo utiliza Telegram y un servicio local; no basta con abrir la landing para
 5. Envía **presupuesto $1000**, confirma de nuevo y observa si hay una opción que cumpla el nuevo presupuesto.
 6. Prueba **6 botellas de bebidas sin alcohol, presupuesto $600, Zapopan**. No debe sustituirlas por alcohol ni inventar un precio.
 
+Si recibes el acuse pero no llega el resumen, escribe **/solicitud** (también funciona **/retry**). Recupera la última solicitud guardada sin volver a interpretar; si aún se está procesando, te lo indica. Revisa y confirma el resumen antes de buscar opciones.
+
 Una observación usada en la verificación del 30 de octubre de 2026 fue Campo Azul Blanco 100% Agave 750 ml, La Penca: $287 MXN por botella × 6 = **$1,722 MXN**, sin envío. Es un resultado histórico verificable, no una promesa de precio o disponibilidad actuales. [Fuente del producto](https://lapencavinos.com/producto/campo-azul-blanco-100-agave-750ml/).
 
 ## Cómo ejecutar el proyecto desde el código

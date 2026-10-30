@@ -21,7 +21,9 @@ Solicita acceso en la landing y espera la aprobación del anfitrión. Vuelve des
 | Uso de Codex | Captura original, tareas concretas y explicación de su verificación |
 | Reutilización | Starter, bibliotecas y procedencia documentados en [atribuciones](REUSE-AND-LICENSES.md) |
 
-Pasaron 33 pruebas automatizadas y comprobaciones de tipos. El flujo web real se verificó con aprobación y revocación. El benchmark local de cinco interpretaciones consecutivas fue 60.44 segundos; no representa cinco cuentas reales simultáneas.
+Pasaron las 41 pruebas automatizadas, incluidas regresiones de envío y recuperación de Telegram, y la comprobación de tipos. Si se pierde una respuesta, **/solicitud** recupera el resumen guardado sin repetir la inferencia, respeta la autorización y requiere confirmación antes de mostrar opciones. Los envíos sin confirmar no se repiten automáticamente.
+
+El flujo web real se verificó con aprobación y revocación. Tras corregir un fallo de envío, el usuario confirmó la recepción real del resumen recuperado y las opciones. El benchmark local de cinco interpretaciones consecutivas fue 60.44 segundos; no representa cinco cuentas reales simultáneas.
 
 ## Límites y acceso al código
 
