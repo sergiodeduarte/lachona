@@ -11,7 +11,7 @@
 <p><strong>Acceso sujeto a aprobación.</strong></p>
 <p><em>Nos vemos en la fiesta. 🎊</em></p>
 
-[🌐 Solicitar acceso](https://lachona.ai) · [🎬 Ver presentación](https://www.loom.com/share/135a3098f5b14cd38d324bf965abad09) · [🛠️ Evidencia de Codex](docs/BUILT-WITH-CODEX.md)
+[🌐 Solicitar acceso](https://lachona.ai) · [📣 Lanzamiento y formas de compartir](docs/LAUNCH.md) · [🎬 Ver presentación](https://www.loom.com/share/135a3098f5b14cd38d324bf965abad09) · [🛠️ Evidencia de Codex](docs/BUILT-WITH-CODEX.md)
 
 </div>
 
