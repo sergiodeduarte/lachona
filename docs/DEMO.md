@@ -10,7 +10,7 @@ La demo utiliza Telegram y un servicio local; no basta con abrir la landing para
 
 1. Envía: **6 botellas de tequila blanco, presupuesto $3000, Zapopan, 30 invitados**.
 2. Comprueba el resumen: tequila blanco, seis botellas, $3,000 MXN, treinta invitados y Zapopan. La cantidad de invitados se mantiene separada de las botellas.
-3. Confirma con **Sí, buscar opciones**.
+3. Confirma con **Sí, buscar opciones** o responde **sí**.
 4. Revisa proveedor, presentación exacta, precio unitario, subtotal, enlace y fecha de observación.
 5. Envía **presupuesto $1000**, confirma de nuevo y observa si hay una opción que cumpla el nuevo presupuesto.
 6. Prueba **6 botellas de bebidas sin alcohol, presupuesto $600, Zapopan**. No debe sustituirlas por alcohol ni inventar un precio.
@@ -52,3 +52,5 @@ Las pruebas automatizadas usan servicios simulados y bases de datos de prueba; n
 V1 maneja una categoría a la vez y hasta tres alternativas del catálogo disponible. Cada alternativa cubre la cantidad completa, no es parte de una compra combinada. Stock, entrega y envío se confirman con el proveedor. No hay compra automática, búsqueda abierta de proveedores, catering, reservas de espacios ni contratación de entretenimiento.
 
 V2 ampliará el producto por etapas. La incorporación de más proveedores y servicios es trabajo futuro.
+
+Si una marca o tipo no está disponible, La Chona explica qué restricción impide encontrar opciones. Puedes usar **Quitar preferencia y revisar** o escribir **sin preferencia**, y confirmar el nuevo resumen. Para Red Label, el catálogo incluye presentaciones verificadas con el nombre **Etiqueta Roja**; las fuentes y fechas aparecen en cada opción.
