@@ -69,6 +69,7 @@ Codex es la herramienta de desarrollo. La interpretación de mensajes del produc
 | --- | --- |
 | Demo y solicitud de acceso | [lachona.ai](https://lachona.ai) |
 | Presentación registrada | [Video en Loom](https://www.loom.com/share/135a3098f5b14cd38d324bf965abad09) |
+| Guía breve para evaluación | [Evaluar La Chona](docs/EVALUATION.md) |
 | Guion reproducible e instrucciones de ejecución | [Probar La Chona](docs/DEMO.md) |
 | Trabajo con Codex y verificación | [Construida con Codex](docs/BUILT-WITH-CODEX.md) |
 | Trabajo nuevo, componentes reutilizados y licencias | [Reutilización y atribuciones](docs/REUSE-AND-LICENSES.md) |
